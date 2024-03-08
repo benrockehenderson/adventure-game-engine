@@ -1,0 +1,65 @@
+Hammer Deduction -1
+$has_item("Hammer")
+$take_points(1)
+END
+
+Buy a Coffee 4
+-print("You are thinking of buying a coffee from Tim Hortons.")
+$add_points(5)
+$print("You bought a large latte from Tim Hortons. The barista told you about the annoying construction going on to the west and the east.")
++print("You had bought a large latte from Tim Hortons. The barista had told you about the annoying construction going on to the west and the east.")
+END
+
+Talk to the Front Desk 7
+-print("You can ask the front desk for your cheat sheet.")
+$print("The front desk found a cheat sheet for a student in Sadia's CSC111 class, but they need to verify it belongs to you. They ask you to name the Sadia's pet that starts with the letter 'B'.")
+$prompt("Bumbly")
+#print("The front desk is not convinced that the cheat sheet belongs to you.")
+$add_item("Cheat Sheet")
+$print("The librarian handed over you your cheat sheet.")
++print("You found your cheat sheet at the front desk.")
+END
+
+Talk to the Librarian 11
+-print("You can ask the librarian for your lucky pen.")
+$print("You remember reading the first Harry Potter book, your lucky pen may be in there. Tell the librarian what specific book you're looking for (the full title!).")
+$prompt("Harry Potter and the Philosopher's Stone", "Harry Potter and the Sorcerer's Stone")
+#print("The librarian did not recognize the book.")
+$add_item("Lucky Pen")
+$print("You found your lucky pen being used as a bookmark inside Harry Potter and the Philosopher's Stone.")
++print("You found your lucky pen being used as a bookmark inside Harry Potter and the Philosopher's Stone.")
+END
+
+Say Hi to Your Friend 19
+-print("You see your friend in the park, you could go and say hi.")
+$print("Hey Zev, how's it going?")
+$add_points(5)
+$print("You said hi to Zev.")
++print("You had said hi to Zev.")
+END
+
+Fix the Elevator 14
+-print("You must fix the elevator first before you can get to the 3rd floor.")
+$has_item("Hammer")
+#print("You need a hammer to fix the elevator.")
+$add_points(5)
+$take_item("Hammer")
+#print("Are you sure you have a Hammer?")
+$unlock_direction_at_point(14, "WEST")
+$print("You fixed the elevator using your hammer. You can now access the 3rd floor through the West exit of the elevator.")
++print("You already fixed the elevator.")
+END
+
+Take The Exam 16
+-print("You see that your exam is about to start.")
+$has_item("T-Card")
+#print("You need your T-Card to take the exam.")
+$has_item("Lucky Pen")
+#print("You need your Lucky Pen to take the exam.")
+$has_item("Cheat Sheet")
+#print("You need your Cheat Sheet to take the exam.")
+$take_item("T-Card")
+$take_item("Lucky Pen")
+$take_item("Cheat Sheet")
+$win()
+END

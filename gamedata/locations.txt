@@ -1,0 +1,137 @@
+LOCATION 1
+0
+You are on the outside of your dorm at Victoria College. The ROM is to the West, and Queen's park crescent East is to the South.
+You are on the outside of your dorm at Victoria College. You see some of your neighbors walking by, they say hi and you wave.
+The buildings are old, and they always remind you of Harry Potter and Hogwarts. The ROM is to the West, and Queen's park crescent East is to the South.
+END
+
+LOCATION 2
+5
+You are inside the ROM. There is construction on Bloor to the North, Varsity stadium to the West, Victoria College to the East, and Queen's park crescent to the south.
+You are inside the ROM. It is always busy in here, you see people of all age, from elementary students to seniors.
+Everyone here enjoys the art and artifacts, and you are really blown away by a Kent Monkman painting.
+There is construction on Bloor to the North, Varsity stadium to the West, Victoria College to the East, and Queen's park crescent to the south.
+END
+
+LOCATION 3
+0
+You are at a construction site on Bloor. There is a Tim Horton's to the West, and the ROM to the South.
+You are at a construction site on Bloor. There are many workers, it is very loud. It looks like the crew is hard at work.
+You noticed a hammer lying on the ground. There is a Tim Horton's to the West, and the ROM to the South.
+END
+
+LOCATION 4
+5
+You are at a Tim Horton's on Bloor. There is a construction East and West, and Varsity Stadium to the South.
+You are at a Tim Horton's on Bloor. There are lots of people hungry but for once the line is short.
+There is a construction East and West, and Varsity Stadium to the South.
+END
+
+LOCATION 5
+0
+You are at a construction site on Bloor. There is a Tim Horton's to the East, and Robarts library to the South.
+You are at a construction site on Bloor. There are many workers, it is very loud. It looks like the crew is hard at work.
+You notice a hammer lying on the ground. There is a Tim Horton's to the East, and Robarts library to the South.
+END
+
+LOCATION 6
+5
+You are on the first floor of Robarts. There is construction to the North, Varsity Stadium to the East, and the Front desk to the West.
+You are on the first floor of Robarts. It is busy but that is normal for Robarts. You see some people you know and someone at the front desk.
+There is construction to the North, Varsity Stadium to the East, and the Front desk to the West.
+END
+
+LOCATION 7
+0
+You are at the Front Desk of Robarts. The lady asks you to confirm your identity by stating the pet of Sadia Sharmin that starts with a letter B. Robarts first floor is East.
+You are at the Front Desk of Robarts. The front desk found a cheat sheet for a student is CSC111, they need to verify it belongs to you.
+They know that Sadia loves pets, and they want to see if you know her pets.
+END
+
+LOCATION 8
+5
+You are at Varsity stadium. Robarts library is to the West, the ROM is to the East, Tim Horton's is North, and a walkway from Varsity to Hart House is South.
+You are at Varsity stadium. There is a soccer game going on, there are lots of fans cheering. You see a U of T player score a goal.
+The crowd goes wild, and you clap for a bit with them. Robarts library is to the West, the ROM is to the East, Tim Horton's is North, and a walkway from Varsity to Hart House is South.
+END
+
+LOCATION 9
+0
+You are at a walkway between Varsity Stadium and Hart House. Varsity is North, Hart House is South, Queen's Park Crescent West is East.
+You are at a walkway between Varsity Stadium and Hart House. Many people walk by you, it seems like everyone is in a rush/
+Varsity is North, Hart House is South, Queen's Park Crescent West is East.
+END
+
+LOCATION 10
+5
+You are at Hart House. There are walkways North, East, and South, the H.H library is West.
+You are at Hart House. There are not many people here right now. It could be because of exam season.
+You remember studying at the library last night. There are walkways North, East, and South, the H.H library is West.
+END
+
+LOCATION 11
+0
+You are at the library of Hart House. You can ask the librarian for what book you are looking for. The exit of the library is East.
+You are at the library of Hart House. You remember reading the first Harry Potter book here last night. Tell the librarian the full name of the book you are looking for.
+The exit of the library is East.
+END
+
+LOCATION 12
+0
+You are at a walkway between Hart house and Myhal. Hart house is North, Myhal is South, and another walkway is East.
+You are at a walkway between Hart house and Myhal. Hart house is North, Myhal is South, and another walkway is East.
+END
+
+LOCATION 13
+5
+You are at the first floor of Myhal. There is a walkway North, the elevator is West, and the Exam centre is East.
+You are at the first floor of Myhal. You always appreciate the design of the building. It is a very bright and interesting space.
+You remember studying on the third floor last night. There is a walkway North, the elevator is West, and the Exam centre is East.
+END
+
+LOCATION 14
+0
+LOCK_DEFAULT WEST
+You are in the elevator of Myhal. You can access the third floor by exiting the elevator Westward.
+You are in the elevator of Myhal. It is so modern. You can access the third floor by exiting the elevator Westward.
+END
+
+LOCATION 15
+5
+You are on the third floor of Myhal. The elevator is on the East side of the room.
+You are on the third floor of Myhal. There is the table you were working at last night, there are some items on it.
+The elevator is on the East side of the room.
+END
+
+LOCATION 16
+10
+You are inside the exam centre. There is a walkway north, and Myhal is West.
+You are inside the exam centre. It is packed as usual, you see many stressed students.
+You check if you have all three important items, your lucky pen, cheatsheet and T-card. There is a walkway north, and Myhal is West.
+END
+
+LOCATION 17
+0
+You are at the bottom of a walkway between Queen's park and the exam centre. The walkway continues North, there is another walkway West, and the exam centre is South.
+You are at the bottom of a walkway between Queen's park and the exam centre. People are walking fast. The walkway continues North, there is another walkway West, and the exam centre is South.
+END
+
+LOCATION 18
+0
+You are the top of a walkway between Queen's Park and the exam centre. Queen's park is North,the walkway continues South, and Hart House is West.
+You are the top of a walkway between Queen's Park and the exam centre. People are walking fast. Queen's park is North,the walkway continues South, and Hart House is West.
+END
+
+LOCATION 19
+0
+You are on the West side of Queen's park Crescent. Queen's park continues East, there are walkways West and South, and the ROM is North.
+You are on the West side of Queen's park Crescent. There is lots going on, you see a cute dog.
+You also see your friend walking by, they wave at you. Queen's park continues East, there are walkways West and South, and the ROM is North.
+END
+
+LOCATION 20
+0
+You are on the East side of Queen's park Crescent. Queen's park continues West, Victoria College is North.
+You are on the East side of Queen's park Crescent. It's very green, and you love having tree's right on campus.
+Queen's park continues West, Victoria College is North.
+END
